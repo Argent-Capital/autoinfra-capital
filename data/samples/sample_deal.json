@@ -1,0 +1,19 @@
+{
+  "title": "Northern Cape 50MW Solar",
+  "sector": "energy",
+  "country": "ZA",
+  "capex": 500000000,
+  "cashflows": [
+    -500000000,
+    90000000,
+    95000000,
+    100000000,
+    110000000,
+    120000000
+  ],
+  "esg_inputs": {
+    "environment": 80,
+    "social": 70,
+    "governance": 65
+  }
+}
